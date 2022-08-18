@@ -3,6 +3,7 @@
 	"description": "Description for FCC tutorial",
 	"keywords": [ "tutorial", "fcc", "freecodecamp" ],
 	"license": "Yo",
+	"version": "1.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
